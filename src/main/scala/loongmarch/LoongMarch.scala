@@ -1,0 +1,5 @@
+package loongmarch
+
+class LoongMarch {
+
+}
