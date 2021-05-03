@@ -1,6 +1,5 @@
-# LoongMarch: a Micro implementation for LoongArch32 ISA
 # 长征：32位龙芯构架的微型实现
-
+# LoongMarch: a Micro implementation for LoongArch32 ISA
 ## 构架详情
 * 本实现针对龙芯构架32位精简版，请参照[《龙芯构架32位精简版参考手册》](http://www.loongson.cn/uploadfile/cpu/LoongsonArch32.pdf)
 * 本实现目前仅针对无mmu无特权指令集的简易嵌入式应用
